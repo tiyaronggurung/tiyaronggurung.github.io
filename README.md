@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tiyarong Gurung</h1>
 <h3 align="center">A Full Stack developer in training at Coding Dojo.</h3>
-<img aligh="right" alt = "coding" width= "400" src="https://dribbble.com/shots/3848914-Programmer-Thomas">
+<img aligh="right" alt = "coding" width= "400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2MOTQ--rABgzr9A2ouUIt2&ust=1644769054612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLje3rDI-vUCFQAAAAAdAAAAABAF">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyaronggurung&label=Profile%20views&color=0e75b6&style=flat" alt="tiyaronggurung" /> </p>
 
@@ -11,7 +11,7 @@
 - 📫 How to reach me **dipeshtamu95@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.google.com/url?sa=i&url=https%3A%2F%2Foutlane.co%2Fnow%2Fnew-shot-programmer-animation%2F&psig=AOvVaw2MOTQ--rABgzr9A2ouUIt2&ust=1644769054612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLje3rDI-vUCFQAAAAAdAAAAABAF
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tiyarong-gurung-0828a71a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tiyarong-gurung-0828a71a4/" height="30" width="40" /></a>
 <a href="https://instagram.com/tiyarong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tiyarong" height="30" width="40" /></a>
 </p>
