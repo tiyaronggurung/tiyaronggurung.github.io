@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyaronggurung&label=Profile%20views&color=0e75b6&style=flat" alt="tiyaronggurung" /> </p>
 
-- 🌱 I’m currently learning **React, mongodb , Reactnative**
+- 🌱 I’m currently learning **React,mongodb,Reactnative**
 
 - 💬 Ask me about **Python, MERN**
 
