@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,mongodb,Reactnative**
 
-- 💬 Ask me about **Python, MERN**
+- 💬 Ask me about **Python, JavaScript**
 
 - 📫 How to reach me **dipeshtamu95@gmail.com**
 
