@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java/Spring, Angular**
 
-- 💬 Ask me about **Python,JavaScript,MERN, Flask **
+- 💬 Ask me about ** Python,JavaScript,MERN, Flask **
 
 - 📫 How to reach me **dipeshtamu95@gmail.com**
 
