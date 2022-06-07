@@ -1,13 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Tiyarong Gurung</h1>
-<h3 align="center">A Full-stack Developer in training at Coding Dojo.</h3>
+<h3 align="center"> Full-stack Developer </h3>
 <img align="right" alt="Coding" width= "400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tiyaronggurung&label=Profile%20views&color=0e75b6&style=flat" alt="tiyaronggurung" /> </p>
 
-- 🌱 I’m currently learning **React,mongodb,Reactnative**
+- 🌱 I’m currently learning **Java/Spring, Angular**
 
-- 💬 Ask me about **Python, JavaScript**
+- 💬 Ask me about **Python,JavaScript,MERN, Flask **
 
 - 📫 How to reach me **dipeshtamu95@gmail.com**
 
